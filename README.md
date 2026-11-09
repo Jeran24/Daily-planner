@@ -27,4 +27,4 @@ php artisan test
 - `docs/NOTES.md` explains folders and the setup, test, and deployment workflow.
 - `docs/DECISIONS.md` records decisions and deviations from the brief.
 - `docs/DEPLOY.md` will contain deployment guidance when Phase 7 is reached.
-- `docs/REPORT.md` will be written at the end of the requested work.
+- `docs/REPORT.md` will be written at the end of the requested works.
