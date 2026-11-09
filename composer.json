@@ -61,7 +61,7 @@
             "pint --test"
         ],
         "ci:check": [
-            "Composer\\\\Config::disableProcessTimeout",
+            "Composer\\Config::disableProcessTimeout",
             "@test"
         ],
         "test": [
